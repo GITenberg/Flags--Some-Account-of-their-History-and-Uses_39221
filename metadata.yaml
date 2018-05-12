@@ -1,0 +1,27 @@
+_repo: Flags--Some-Account-of-their-History-and-Uses_39221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macgeorge, Andrew
+    birthdate: 1810
+    deathdate: 1891
+    gutenberg_agent_id: '39904'
+    url: http://www.gutenberg.org/2009/agents/39904
+description: ''
+gutenberg_issued: '2012-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39221'
+  lccn: '10002237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flags'
+- !lcc 'CR'
+title: 'Flags: Some Account of their History and Uses'
+url: http://www.gutenberg.org/ebooks/39221
